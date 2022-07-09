@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rocco
+- 👀 I’m interested in ... Roblox Exploiting/Hacking
+- 🌱 I’m currently learning ... C#/C++/Lua
